@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AnodaTest</string>
+    <string name="nickname">nickname</string>
+    <string name="city">city</string>
+    <string name="likedby">Liked by</string>
+    <string name="test">test</string>
+
+    <string name="like">you like this photo</string>
+    <string name="menu">menu clicked</string>
+    <string name="message">message clicked</string>
+    <string name="share">share photo clicked</string>
+    <string name="save">save bnt clicked</string>
+
+    <string name="menu_home">home clicked</string>
+    <string name="menu_search">search clicked</string>
+    <string name="menu_add">add photo clicked</string>
+    <string name="menu_liked">liked cliked</string>
+    <string name="menu_account">account clicked</string>
+
+</resources>
